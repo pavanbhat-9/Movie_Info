@@ -5,6 +5,6 @@ int main() {
     printf("Release year:2014\n");
     printf("Director: Cristopher Nolan\n");
     printf("Genere:Sci-Fi,Adeventure,Drama\n");
-
+    printf("IMDB:8.6/10\n");
     return 0;
 }
