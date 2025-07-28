@@ -6,5 +6,6 @@ int main() {
     printf("Director: Cristopher Nolan\n");
     printf("Genere:Sci-Fi,Adeventure,Drama\n");
     printf("IMDB:8.6/10\n");
+    printf("gajani");
     return 0;
 }
